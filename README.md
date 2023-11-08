@@ -3,6 +3,11 @@ Created by Mohit Sachdeva
 # Loan Repayment Prediction
 Predicting loan repayment is a crucial task for lenders and financial institutions to assess the creditworthiness of borrowers. Various methods and techniques can be used for loan repayment prediction, and they often involve data analysis and machine learning. 
 
+## Highlights
+
+When working with 28 features and a dataset of 80,000 records for loan repayment prediction, it's important to choose the right set of features that are most relevant for your specific problem.
+With a dataset of 80,000 records and 28 features, you have a substantial amount of data to work with. You can explore various machine learning models, including logistic regression, decision trees, random forests, support vector machines, or gradient boosting methods. 
+When selecting features and building models, it's essential to follow best practices, conduct proper data exploration and analysis, and evaluate model performance using appropriate metrics, such as accuracy, precision, recall, or the area under the ROC curve. Cross-validation can help ensure that your model generalizes well to unseen data.
 
 ## Here's a high-level overview of the steps and considerations involved in loan repayment prediction:
 
